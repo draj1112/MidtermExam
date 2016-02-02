@@ -100,4 +100,6 @@ public class HttpUtils {
     public static String getResponse(Uri uri, String requestMethod) {
         return getResponse(uri.toString(), requestMethod);
     }
+
+
 }

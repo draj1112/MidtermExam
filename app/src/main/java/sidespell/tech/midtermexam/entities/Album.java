@@ -19,12 +19,12 @@ public class Album {
         this.mAlbumIcon = mAlbumIcon;
     }
 
-    public String getmStrIcon() {
+    public String getmIconSrc() {
         return mIconSrc;
     }
 
-    public void setmStrIcon(String mStrIcon) {
-        this.mIconSrc= mStrIcon;
+    public void setmIconSrc(String mIconSrc) {
+        this.mIconSrc = mIconSrc;
     }
 
     public String getmAlbumName() {
