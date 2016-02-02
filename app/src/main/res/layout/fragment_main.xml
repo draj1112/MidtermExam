@@ -45,6 +45,6 @@
         android:gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="There's no album present atthis moment."/>
+        android:text="There's no album present at this moment."/>
 
 </LinearLayout>
